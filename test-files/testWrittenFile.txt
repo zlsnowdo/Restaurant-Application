@@ -1,0 +1,7 @@
+2
+# John,Doe,jd4
+# John,Smith,js1
+* MI0,Coffee,Latte,2.5
+* MI1,Pastry,Doughnut,1.25
+- 1,js1,MI0,MI0,MI1
+- 2,jd4,MI0,MI0,MI0,MI1

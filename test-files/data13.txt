@@ -1,0 +1,10 @@
+1500
+# Sarah,Heckman,sesmith5
+# James,Tetterton,jctetter
+# Ignacio X.,Dominguez,ignacioxd
+* T1,Tea,Chai Latte,
+* C1,Coffee,Large Coffee,2.5a
+* P1,Pastries,Donut,2.0
+- 1500,jctetter,T1,T1,P1
+- 152,sesmith5,P1,C1,P1,T1,P1
+- 151,ignacioxd,T1

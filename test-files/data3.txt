@@ -1,0 +1,21 @@
+5
+# Jane,Doe,jd2
+# John,Doe,jd1
+# Ignacio X.,Dominguez,ixd
+# Sarah,Heckman,sh
+# James,Tetterton,jt
+* MI0,Coffee,Capuccino,2.5
+* MI1,Coffee,Macchiato,2.5
+* MI2,Coffee,Latte,2.5
+* MI3,Pastries,Sconce,2.5
+* MI4,Pastries,Bagel,2.5
+* MI5,Pastries,Chocolate Chip Cookie,2.5
+* MI6,Tea,Green Tea,2.5
+* MI7,Tea,Chai Latte,3.0
+* MI8,Tea,Iced Chai,2.5
+* MI9,Tea,Iced Sweet Tea,2.5
+- 1,ixd,MI3,MI7
+- 2,jd2,MI0,MI2,MI5,MI9,MI7
+- 3,sh,MI2,MI4
+- 4,jt,MI1,MI5,MI6
+- 5,jd1,MI0,MI5
